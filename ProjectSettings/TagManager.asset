@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bubble
+  - ThrowingStar
+  - Star Limits
+  - Camera Limits
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Platform
+  - Bubble
+  - ThrowingStar
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Moon
+    uniqueID: 3767837229
+    locked: 0
+  - name: Cloud/Back08
+    uniqueID: 4237675287
+    locked: 0
+  - name: Cloud/Back07
+    uniqueID: 1562200525
+    locked: 0
+  - name: Building/Back07
+    uniqueID: 2802166757
+    locked: 0
+  - name: Cloud/Back06
+    uniqueID: 2701577189
+    locked: 0
+  - name: Building/Back06
+    uniqueID: 4244732927
+    locked: 0
+  - name: Cloud/Back05
+    uniqueID: 123886499
+    locked: 0
+  - name: Building/Back05
+    uniqueID: 447611053
+    locked: 0
+  - name: Cloud/Back04
+    uniqueID: 1686658429
+    locked: 0
+  - name: Building/Back04
+    uniqueID: 2621743907
+    locked: 0
+  - name: Cloud/Back03
+    uniqueID: 4008353019
+    locked: 0
+  - name: Building/Back03
+    uniqueID: 1496335381
+    locked: 0
+  - name: Cloud/Back02
+    uniqueID: 34497677
+    locked: 0
+  - name: Building/Back02
+    uniqueID: 612620161
+    locked: 0
+  - name: Cloud/Back01
+    uniqueID: 826186797
+    locked: 0
+  - name: Building/Back01
+    uniqueID: 1016827199
+    locked: 0
+  - name: Building/Main
+    uniqueID: 2228413631
+    locked: 0
+  - name: Window/Main
+    uniqueID: 1979020411
+    locked: 0
+  - name: Street Lamp
+    uniqueID: 1236869021
+    locked: 0
+  - name: Bulb
+    uniqueID: 3611262077
+    locked: 0
+  - name: Player/Bubble
+    uniqueID: 1991720203
+    locked: 0
+  - name: Player/Player
+    uniqueID: 3610424599
+    locked: 0
+  - name: Player/Throwing Star
+    uniqueID: 175619475
+    locked: 0

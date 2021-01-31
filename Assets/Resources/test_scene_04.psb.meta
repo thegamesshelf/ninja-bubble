@@ -1,0 +1,578 @@
+fileFormatVersion: 2
+guid: 8a531f37bbe0d9549a06018570c86d1d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Building07
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1761
+      y: 1304
+      width: 1740
+      height: 245
+    spriteID: 496e6ed94c8d38b4096b9cb21e2cf3aa
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1695, y: 1244}
+  - name: Building06
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1747
+      y: 989
+      width: 1739
+      height: 278
+    spriteID: 3db81182065d8744c9a9147ca49abd34
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1681, y: 925}
+  - name: Building01
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1304
+      width: 1749
+      height: 263
+    spriteID: 860a3366a5e85f648871e6801daf5448
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -60, y: 1291}
+  - name: Building02
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1867
+      y: 4
+      width: 1730
+      height: 372
+    spriteID: 889c359438df50f45a1605bbb8b3a9ff
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1793, y: -62}
+  - name: Building03
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 644
+      width: 1735
+      height: 337
+    spriteID: bb9a5e29119a89048a6e193f1ac6a500
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -62, y: 550}
+  - name: Building04
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1747
+      y: 644
+      width: 1731
+      height: 319
+    spriteID: 9a8d8481789ea074381546ae23343cfd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1680, y: 512}
+  - name: Building05
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 989
+      width: 1735
+      height: 307
+    spriteID: 8e241a731c0317745a12fd1d5cc20b7d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -53, y: 831}
+  - name: Cloud01
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1855
+      height: 632
+    spriteID: e3b9f37169149de4b8822975e1f1098c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: -126}
+  - name: Cloud02
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1843
+      y: 1575
+      width: 1836
+      height: 204
+    spriteID: e35dc2dba2f60a54090f7e6fcc1f9dff
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1822, y: 1055}
+  - name: Cloud03
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1809
+      y: 1798
+      width: 1807
+      height: 136
+    spriteID: 6762b1bb4bf26a24ea8e749102aaff57
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1767, y: 1278}
+  - name: Cloud04
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1575
+      width: 1831
+      height: 215
+    spriteID: 5a5c72b7660e9aa4683bcfff3c963e81
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -33, y: 1094}
+  - name: Cloud05
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1801
+      y: 1977
+      width: 1789
+      height: 119
+    spriteID: d01f944b44bae944eb3e0d333c71c613
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1761, y: 1486}
+  - name: Cloud06
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1798
+      width: 1797
+      height: 171
+    spriteID: c5bd967547662f7469e9a4bbe69e347b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -33, y: 1336}
+  - name: Cloud07
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1977
+      width: 1789
+      height: 137
+    spriteID: 7deee922840e266469b9463922e344ee
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -41, y: 1509}
+  - name: Cloud08
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1867
+      y: 384
+      width: 1814
+      height: 246
+    spriteID: 2d55e636f0b88fc42afec1dbf730d4c8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1813, y: -63}
+  platformSettings:
+  - name: Default
+    overridden: 1
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 4096
+  importedTextureHeight: 4096
+  documentSize: {x: 1868, y: 768}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Buildings
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 45
+    mosaicPosition: {x: 0, y: 0}
+  - name: Building07
+    spriteName: Building07
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 496e6ed94c8d38b4096b9cb21e2cf3aa
+    layerID: 44
+    mosaicPosition: {x: 1761, y: 1304}
+  - name: Building06
+    spriteName: Building06
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3db81182065d8744c9a9147ca49abd34
+    layerID: 43
+    mosaicPosition: {x: 1747, y: 989}
+  - name: Building01
+    spriteName: Building01
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 860a3366a5e85f648871e6801daf5448
+    layerID: 42
+    mosaicPosition: {x: 4, y: 1304}
+  - name: Building02
+    spriteName: Building02
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 889c359438df50f45a1605bbb8b3a9ff
+    layerID: 41
+    mosaicPosition: {x: 1867, y: 4}
+  - name: Building03
+    spriteName: Building03
+    isGroup: 0
+    parentIndex: 0
+    spriteID: bb9a5e29119a89048a6e193f1ac6a500
+    layerID: 37
+    mosaicPosition: {x: 4, y: 644}
+  - name: Building04
+    spriteName: Building04
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9a8d8481789ea074381546ae23343cfd
+    layerID: 33
+    mosaicPosition: {x: 1747, y: 644}
+  - name: Building05
+    spriteName: Building05
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8e241a731c0317745a12fd1d5cc20b7d
+    layerID: 29
+    mosaicPosition: {x: 4, y: 989}
+  - name: Clouds
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 24
+    mosaicPosition: {x: 0, y: 0}
+  - name: Cloud01
+    spriteName: Cloud01
+    isGroup: 0
+    parentIndex: 8
+    spriteID: e3b9f37169149de4b8822975e1f1098c
+    layerID: 23
+    mosaicPosition: {x: 4, y: 4}
+  - name: Cloud02
+    spriteName: Cloud02
+    isGroup: 0
+    parentIndex: 8
+    spriteID: e35dc2dba2f60a54090f7e6fcc1f9dff
+    layerID: 22
+    mosaicPosition: {x: 1843, y: 1575}
+  - name: Cloud03
+    spriteName: Cloud03
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 6762b1bb4bf26a24ea8e749102aaff57
+    layerID: 18
+    mosaicPosition: {x: 1809, y: 1798}
+  - name: Cloud04
+    spriteName: Cloud04
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 5a5c72b7660e9aa4683bcfff3c963e81
+    layerID: 17
+    mosaicPosition: {x: 4, y: 1575}
+  - name: Cloud05
+    spriteName: Cloud05
+    isGroup: 0
+    parentIndex: 8
+    spriteID: d01f944b44bae944eb3e0d333c71c613
+    layerID: 13
+    mosaicPosition: {x: 1801, y: 1977}
+  - name: Cloud06
+    spriteName: Cloud06
+    isGroup: 0
+    parentIndex: 8
+    spriteID: c5bd967547662f7469e9a4bbe69e347b
+    layerID: 12
+    mosaicPosition: {x: 4, y: 1798}
+  - name: Cloud07
+    spriteName: Cloud07
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 7deee922840e266469b9463922e344ee
+    layerID: 8
+    mosaicPosition: {x: 4, y: 1977}
+  - name: Cloud08
+    spriteName: Cloud08
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 2d55e636f0b88fc42afec1dbf730d4c8
+    layerID: 7
+    mosaicPosition: {x: 1867, y: 384}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: test_scene_04 Texture
+  prefabAssetName: test_scene_04 Prefab
+  spriteLibAssetName: test_scene_04 Sprite Lib
+  secondarySpriteTextures: []

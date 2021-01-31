@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: 3f69358644065cc42859f837900400f9
+ScriptedImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1388499977159992221
+    second: Controls_Ninja_Bubble_0
+  - first:
+      213: 5858943730593001030
+    second: Controls_Ninja_Bubble_1
+  - first:
+      213: 9073847442079505939
+    second: Controls_Ninja_Bubble_2
+  - first:
+      213: 7423291743251447037
+    second: Controls_Ninja_Bubble_3
+  - first:
+      213: 7718820190780830852
+    second: Controls_Ninja_Bubble_4
+  - first:
+      213: 940938730694433783
+    second: Controls_Ninja_Bubble_5
+  - first:
+      213: -239528097774494064
+    second: Controls_Ninja_Bubble_6
+  - first:
+      213: -4583310850340691475
+    second: Controls_Ninja_Bubble_7
+  - first:
+      213: -1371771173148132942
+    second: Controls_Ninja_Bubble_8
+  - first:
+      213: 4435424141801486909
+    second: Controls_Ninja_Bubble_9
+  - first:
+      213: -7545466272235699781
+    second: Controls_Ninja_Bubble_10
+  - first:
+      213: -5251634300289660307
+    second: Controls_Ninja_Bubble_11
+  - first:
+      213: -3559614849634595376
+    second: Controls_Ninja_Bubble_12
+  - first:
+      213: 2123399798239572355
+    second: Controls_Ninja_Bubble_13
+  - first:
+      213: -4913733342262112591
+    second: Controls_Ninja_Bubble_14
+  - first:
+      213: 2661034164468186349
+    second: Controls_Ninja_Bubble_15
+  - first:
+      213: -1687555445747849529
+    second: Controls_Ninja_Bubble_16
+  - first:
+      213: 5858943730593001030
+    second: Controls_Ninja_Bubble_1
+  - first:
+      213: 9073847442079505939
+    second: Controls_Ninja_Bubble_2
+  - first:
+      213: -1388499977159992221
+    second: Controls_Ninja_Bubble_0
+  - first:
+      213: 9073847442079505939
+    second: Controls_Ninja_Bubble_2
+  - first:
+      213: 7423291743251447037
+    second: Controls_Ninja_Bubble_3
+  - first:
+      213: 7718820190780830852
+    second: Controls_Ninja_Bubble_4
+  - first:
+      213: -239528097774494064
+    second: Controls_Ninja_Bubble_6
+  - first:
+      213: -4583310850340691475
+    second: Controls_Ninja_Bubble_7
+  - first:
+      213: -1371771173148132942
+    second: Controls_Ninja_Bubble_8
+  - first:
+      213: 4435424141801486909
+    second: Controls_Ninja_Bubble_9
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Controls_Ninja_Bubble_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 1606
+      width: 560
+      height: 122
+    spriteID: 36c9dba90ae0bbce0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 8, y: 1606}
+  - name: Controls_Ninja_Bubble_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 1368
+      width: 296
+      height: 194
+    spriteID: 64e6ffce7462f4150800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 384, y: 1368}
+  - name: Controls_Ninja_Bubble_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 1374
+      width: 285
+      height: 215
+    spriteID: 31e5c3b5c28cced70800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 24, y: 1374}
+  - name: Controls_Ninja_Bubble_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 784
+      y: 1384
+      width: 136
+      height: 128
+    spriteID: 7fbd27e4ac2ee0d00800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 784, y: 1384}
+  - name: Controls_Ninja_Bubble_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 638
+      y: 4
+      width: 516
+      height: 410
+    spriteID: dfcb79c9284d40760800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 638, y: 4}
+  - name: Controls_Ninja_Bubble_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 53
+      width: 510
+      height: 379
+    spriteID: 484ba944112ce1b60800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 10, y: 53}
+  - name: Controls_Ninja_Bubble_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 480
+      width: 287
+      height: 214
+    spriteID: 09e1d62d6760dacf0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 24, y: 480}
+  - name: Controls_Ninja_Bubble_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 484
+      width: 296
+      height: 188
+    spriteID: de1ef36a01fc460c0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 384, y: 484}
+  - name: Controls_Ninja_Bubble_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 784
+      y: 496
+      width: 136
+      height: 125
+    spriteID: 2b9726fc26d76fce0800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 784, y: 496}
+  - name: Controls_Ninja_Bubble_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 728
+      width: 560
+      height: 112
+    spriteID: d3af440d1cacd8d30800000000000000
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 8, y: 728}
+  platformSettings:
+  - name: Default
+    overridden: 1
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 1024
+  documentSize: {x: 1194, y: 882}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 2048
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Blue w White Fill
+    spriteName: Blue w White Fill
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0ade8b77b41b46a4bafcf8e353df748b
+    layerID: 5
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Controls_Ninja_Bubble Texture
+  prefabAssetName: Controls_Ninja_Bubble Prefab
+  spriteLibAssetName: Controls_Ninja_Bubble Sprite Lib
+  secondarySpriteTextures: []
