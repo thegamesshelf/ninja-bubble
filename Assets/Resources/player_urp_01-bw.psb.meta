@@ -24,6 +24,8 @@ ScriptedImporter:
     isReadable: 0
     streamingMipmaps: 1
     streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
     nPOTScale: 1
     sRGBTexture: 1
     spriteMode: 2
@@ -42,6 +44,10 @@ ScriptedImporter:
     textureType: 8
     textureShape: 1
     singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
     filterMode: 1
     aniso: 1
     mipBias: 0
@@ -75,7 +81,6 @@ ScriptedImporter:
       width: 0
       height: 0
     spriteID: 
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -99,13 +104,16 @@ ScriptedImporter:
       width: 239
       height: 141
     spriteID: 607e44103197a8e43913b69c7a1b314d
-    internalID: 0
     spriteBone:
     - name: Head
+      guid: 
       position: {x: -53.932922, y: -201.98987, z: 0}
       rotation: {x: 0, y: 0, z: 0.6801506, w: 0.73307246}
       length: 489.75342
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 213.83899, y: 1.9229965}
@@ -464,13 +472,16 @@ ScriptedImporter:
       width: 594
       height: 534
     spriteID: 9e074ea958d4690469e05f0e894ddabe
-    internalID: 0
     spriteBone:
     - name: Head
+      guid: 
       position: {x: 283.06708, y: 16.010132, z: 0}
       rotation: {x: 0, y: 0, z: 0.6801506, w: 0.73307246}
       length: 489.75342
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 324.073, y: 4.7950134}
@@ -1271,13 +1282,16 @@ ScriptedImporter:
       width: 92
       height: 89
     spriteID: 2a04515b26237a94783b09ad3fd3342e
-    internalID: 0
     spriteBone:
     - name: Head
+      guid: 
       position: {x: 221.06708, y: -377.98987, z: 0}
       rotation: {x: 0, y: 0, z: 0.6801506, w: 0.73307246}
       length: 489.75342
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 34.88199, y: 1.0759888}
@@ -1753,48 +1767,79 @@ ScriptedImporter:
       width: 408
       height: 264
     spriteID: 70e70d44bb3cc0a46a8c433cba6122b3
-    internalID: 0
     spriteBone:
     - name: Tail Top 08
+      guid: 
       position: {x: 55.30207, y: -0.000008426978, z: 0}
       rotation: {x: 0, y: 0, z: -0.06449087, w: 0.9979183}
       length: 43.19432
       parentId: 1
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Top 07
+      guid: 
       position: {x: 53.242153, y: -0.0000285712, z: 0}
       rotation: {x: 0, y: 0, z: 0.10540486, w: 0.99442947}
       length: 55.302105
       parentId: 2
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Top 06
+      guid: 
       position: {x: 44.495777, y: -0.00005553095, z: 0}
       rotation: {x: 0, y: 0, z: -0.03196886, w: 0.9994889}
       length: 53.242104
       parentId: 3
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Top 05
+      guid: 
       position: {x: 56.6542, y: -0.00007324569, z: 0}
       rotation: {x: 0, y: 0, z: 0.03235487, w: 0.99947643}
       length: 44.49585
       parentId: 4
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Top 04
+      guid: 
       position: {x: 51.190075, y: 0.0000822818, z: 0}
       rotation: {x: 0, y: 0, z: 0.00602484, w: 0.9999819}
       length: 56.654263
       parentId: 5
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Top 03
+      guid: 
       position: {x: 47.13935, y: 0.000033158838, z: 0}
       rotation: {x: 0, y: 0, z: -0.021724362, w: 0.999764}
       length: 51.19009
       parentId: 6
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Top 02
+      guid: 
       position: {x: 320.09018, y: 202.50598, z: 0}
       rotation: {x: 0, y: 0, z: 0.96802825, w: -0.25084156}
       length: 47.13937
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Top
+      guid: 
       position: {x: 404.0309, y: 251.34412, z: 0}
       rotation: {x: 0, y: 0, z: 0.9747208, w: -0.22342679}
       length: 52.55952
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 25.850006, y: 0.46600342}
@@ -2576,58 +2621,97 @@ ScriptedImporter:
       width: 353
       height: 302
     spriteID: 5e7577013b56dba448a056606df864d4
-    internalID: 0
     spriteBone:
     - name: Tail Bottom 09
+      guid: 
       position: {x: 42.101902, y: -0.00007157479, z: -1}
       rotation: {x: 0, y: 0, z: 0.012817204, w: 0.9999179}
       length: 25.900396
       parentId: 1
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Bottom 08
+      guid: 
       position: {x: 29.15789, y: 0.000011809927, z: -1}
       rotation: {x: 0, y: 0, z: 0.0056916825, w: 0.9999838}
       length: 42.101967
       parentId: 2
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Bottom 07
+      guid: 
       position: {x: 39.386375, y: 0.00003046748, z: -1}
       rotation: {x: 0, y: 0, z: 0.06402187, w: 0.99794847}
       length: 29.15791
       parentId: 3
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Bottom 06
+      guid: 
       position: {x: 48.671295, y: 0.000018184533, z: -1}
       rotation: {x: 0, y: 0, z: -0.049276523, w: 0.99878526}
       length: 39.386337
       parentId: 4
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Bottom 05
+      guid: 
       position: {x: 44.574234, y: 0.000059369817, z: -1}
       rotation: {x: 0, y: 0, z: 0.027399324, w: 0.9996246}
       length: 48.671196
       parentId: 5
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Bottom 04
+      guid: 
       position: {x: 44.57381, y: -0.00022060334, z: -1}
       rotation: {x: 0, y: 0, z: 5.2226605e-11, w: 1}
       length: 44.574215
       parentId: 6
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Bottom 03
+      guid: 
       position: {x: 41.235554, y: -0.000149875, z: -1}
       rotation: {x: 0, y: 0, z: -0.008250355, w: 0.999966}
       length: 44.57392
       parentId: 7
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Bottom 02
+      guid: 
       position: {x: 39.089565, y: 0.0000441685, z: -1}
       rotation: {x: 0, y: 0, z: 0.0028989275, w: 0.9999958}
       length: 41.235607
       parentId: 8
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Bottom 01
+      guid: 
       position: {x: 52.51551, y: 0.000073281706, z: -1}
       rotation: {x: 0, y: 0, z: 0.027242798, w: 0.9996289}
       length: 39.08965
       parentId: 9
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Bottom
+      guid: 
       position: {x: 333.6095, y: 277.92273, z: -1}
       rotation: {x: 0, y: 0, z: 0.95229596, w: -0.3051761}
       length: 52.51535
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 29.889008, y: 0.43798828}
@@ -3417,13 +3501,16 @@ ScriptedImporter:
       width: 113
       height: 313
     spriteID: 2582f4caec8c09646a218f3a0f212a72
-    internalID: 0
     spriteBone:
     - name: Leg-Front
+      guid: 
       position: {x: 73.857544, y: 280.09717, z: 1}
       rotation: {x: 0, y: 0, z: 0.754891, w: -0.65585035}
       length: 251.23398
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 38, y: 1}
@@ -3892,13 +3979,16 @@ ScriptedImporter:
       width: 139
       height: 240
     spriteID: 2d093742ecd9d8f48a04bf4478e24443
-    internalID: 0
     spriteBone:
     - name: Leg-Front 01
+      guid: 
       position: {x: 114.754944, y: 220.32751, z: 1}
       rotation: {x: 0, y: 0, z: 0.84907305, w: -0.52827555}
       length: 227.97058
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 16.902008, y: 1.4439697}
@@ -4569,13 +4659,16 @@ ScriptedImporter:
       width: 175
       height: 203
     spriteID: a1b7727b9c1f8eb4bb576133f75ae2f6
-    internalID: 0
     spriteBone:
     - name: Arm-Front
+      guid: 
       position: {x: 146.54095, y: 169.22876, z: 1}
       rotation: {x: 0, y: 0, z: 0.90536964, w: -0.42462447}
       length: 188.56987
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 43, y: 2}
@@ -5041,13 +5134,16 @@ ScriptedImporter:
       width: 55
       height: 184
     spriteID: 854852b2939d2b8468bbdeae1e512e66
-    internalID: 0
     spriteBone:
     - name: Arm-Front 01
+      guid: 
       position: {x: 23.971619, y: 160.24036, z: 1}
       rotation: {x: 0, y: 0, z: 0.67832714, w: -0.73476005}
       length: 153.10689
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 41.757996, y: 1.4459839}
@@ -5573,6 +5669,36 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 38, y: 300}
+  - name: Body02
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1128
+      width: 172
+      height: 451
+    spriteID: cf3df607f6925d7488a4604b3e9f2624
+    spriteBone:
+    - name: Body
+      guid: 
+      position: {x: 69.96222, y: 55.149536, z: 0}
+      rotation: {x: 0, y: 0, z: 0.70293534, w: 0.71125376}
+      length: 389.2063
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -530, y: 685}
   - name: Body01
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -5585,13 +5711,16 @@ ScriptedImporter:
       width: 172
       height: 451
     spriteID: df7a90fe4bb4a5b4cb0d663ea4c732cd
-    internalID: 0
     spriteBone:
     - name: Body
+      guid: 
       position: {x: 69.96222, y: 55.149536, z: 0}
       rotation: {x: 0, y: 0, z: 0.70293534, w: 0.71125376}
       length: 389.2063
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 68.919, y: 3.098999}
@@ -6030,13 +6159,16 @@ ScriptedImporter:
       width: 98
       height: 119
     spriteID: 0eaaae954f0ced24b808cce868378913
-    internalID: 0
     spriteBone:
     - name: Neck
+      guid: 
       position: {x: 37.540833, y: 41.328857, z: 0}
       rotation: {x: 0, y: 0, z: 0.6933848, w: 0.72056746}
       length: 39.710495
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 64.553, y: 0.967041}
@@ -6469,13 +6601,16 @@ ScriptedImporter:
       width: 129
       height: 229
     spriteID: 6bea75f8d5917674d8d08771d7f968f3
-    internalID: 0
     spriteBone:
     - name: Arm-Back
+      guid: 
       position: {x: 28.119507, y: 204.28113, z: -1}
       rotation: {x: 0, y: 0, z: -0.5526659, w: 0.833403}
       length: 192.18526
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 108.10901, y: 1.6429443}
@@ -6954,13 +7089,16 @@ ScriptedImporter:
       width: 172
       height: 102
     spriteID: fbc4c8a63c4e71843b37a91a3e24c60e
-    internalID: 0
     spriteBone:
     - name: Arm-Back 01
+      guid: 
       position: {x: 25.902832, y: 82.242676, z: -1}
       rotation: {x: 0, y: 0, z: -0.2431207, w: 0.96999604}
       length: 148.84889
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 163.00598, y: 2.3449707}
@@ -7386,13 +7524,16 @@ ScriptedImporter:
       width: 156
       height: 305
     spriteID: b447b308bf8d11940bc95a2fb74db5cb
-    internalID: 0
     spriteBone:
     - name: Leg-Back
+      guid: 
       position: {x: 31.909912, y: 279.4662, z: -1}
       rotation: {x: 0, y: 0, z: -0.560629, w: 0.8280671}
       length: 263.0017
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 130, y: 1}
@@ -7870,13 +8011,16 @@ ScriptedImporter:
       width: 49
       height: 263
     spriteID: f79d1c3ffc958cf49841188f3e97fd79
-    internalID: 0
     spriteBone:
     - name: Leg-Front 01
+      guid: 
       position: {x: 24.58612, y: 243.27515, z: -1}
       rotation: {x: 0, y: 0, z: -0.69283193, w: 0.7210992}
       length: 229.1121
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     spriteOutline: []
     vertices:
     - position: {x: 45, y: 4}
@@ -8396,327 +8540,278 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: -369, y: 1441}
-  - name: Body02
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 1128
-      width: 172
-      height: 451
-    spriteID: cf3df607f6925d7488a4604b3e9f2624
-    internalID: 0
-    spriteBone:
-    - name: Body
-      position: {x: 69.96222, y: 55.149536, z: 0}
-      rotation: {x: 0, y: 0, z: 0.70293534, w: 0.71125376}
-      length: 389.2063
-      parentId: -1
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -530, y: 685}
-  platformSettings:
-  - name: Default
-    overridden: 1
-    maxTextureSize: 8192
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 2
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 1
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  mosaicLayers: 1
-  documentPivot: {x: 0, y: 0}
-  documentAlignment: 7
-  importHiddenLayers: 0
-  importedTextureWidth: 1024
-  importedTextureHeight: 2048
-  documentSize: {x: 921, y: 1445}
-  paperDollMode: 0
-  keepDupilcateSpriteName: 0
-  spriteCategoryList:
-    categories: []
-  textureActualWidth: 1024
-  textureActualHeight: 2048
-  spritePackingTag: 
-  resliceFromLayer: 0
-  characterMode: 1
-  mosaicPSDLayers: []
-  rigPSDLayers:
-  - name: Viser
-    spriteName: Viser
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 607e44103197a8e43913b69c7a1b314d
-    layerID: 17
-    mosaicPosition: {x: 606, y: 4}
-  - name: Head
-    spriteName: Head
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 9e074ea958d4690469e05f0e894ddabe
-    layerID: 16
-    mosaicPosition: {x: 4, y: 4}
-  - name: Knot
-    spriteName: Knot
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 2a04515b26237a94783b09ad3fd3342e
-    layerID: 15
-    mosaicPosition: {x: 365, y: 1292}
-  - name: Tail01
-    spriteName: Tail01
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 70e70d44bb3cc0a46a8c433cba6122b3
-    layerID: 14
-    mosaicPosition: {x: 4, y: 546}
-  - name: Tail02
-    spriteName: Tail02
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 5e7577013b56dba448a056606df864d4
-    layerID: 13
-    mosaicPosition: {x: 4, y: 818}
-  - name: Thigh-Front
-    spriteName: Thigh-Front
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 2582f4caec8c09646a218f3a0f212a72
-    layerID: 12
-    mosaicPosition: {x: 184, y: 1441}
-  - name: Shin-Front
-    spriteName: Shin-Front
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 2d093742ecd9d8f48a04bf4478e24443
-    layerID: 11
-    mosaicPosition: {x: 184, y: 1762}
-  - name: UpArm-Front
-    spriteName: UpArm-Front
-    isGroup: 0
-    parentIndex: -1
-    spriteID: a1b7727b9c1f8eb4bb576133f75ae2f6
-    layerID: 10
-    mosaicPosition: {x: 420, y: 546}
-  - name: LowArm-Front
-    spriteName: LowArm-Front
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 854852b2939d2b8468bbdeae1e512e66
-    layerID: 9
-    mosaicPosition: {x: 502, y: 818}
-  - name: Body02
-    spriteName: Body02
-    isGroup: 0
-    parentIndex: -1
-    spriteID: cf3df607f6925d7488a4604b3e9f2624
-    layerID: 8
-    mosaicPosition: {x: 4, y: 1128}
-  - name: Body01
-    spriteName: Body01
-    isGroup: 0
-    parentIndex: -1
-    spriteID: df7a90fe4bb4a5b4cb0d663ea4c732cd
-    layerID: 7
-    mosaicPosition: {x: 4, y: 1587}
-  - name: Neck
-    spriteName: Neck
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 0eaaae954f0ced24b808cce868378913
-    layerID: 6
-    mosaicPosition: {x: 365, y: 1165}
-  - name: UpArm-Back
-    spriteName: UpArm-Back
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 6bea75f8d5917674d8d08771d7f968f3
-    layerID: 5
-    mosaicPosition: {x: 365, y: 818}
-  - name: LowArm-Back
-    spriteName: LowArm-Back
-    isGroup: 0
-    parentIndex: -1
-    spriteID: fbc4c8a63c4e71843b37a91a3e24c60e
-    layerID: 4
-    mosaicPosition: {x: 365, y: 1055}
-  - name: Thigh-Back
-    spriteName: Thigh-Back
-    isGroup: 0
-    parentIndex: -1
-    spriteID: b447b308bf8d11940bc95a2fb74db5cb
-    layerID: 3
-    mosaicPosition: {x: 184, y: 1128}
-  - name: Shin-Back
-    spriteName: Shin-Back
-    isGroup: 0
-    parentIndex: -1
-    spriteID: f79d1c3ffc958cf49841188f3e97fd79
-    layerID: 2
-    mosaicPosition: {x: 305, y: 1441}
   characterData:
     bones:
     - name: Body
+      guid: 
       position: {x: 603.9622, y: 498.14954, z: 0}
       rotation: {x: 0, y: 0, z: 0.70293534, w: 0.71125376}
       length: 389.20633
       parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Neck
+      guid: 
       position: {x: 389.20633, y: -0.00008381053, z: 0}
       rotation: {x: 0, y: 0, z: -0.0133397775, w: 0.999911}
       length: 39.710495
       parentId: 0
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Head
+      guid: 
       position: {x: 39.710545, y: 0.0000016634044, z: 0}
       rotation: {x: 0, y: 0, z: -0.0182069, w: 0.99983424}
       length: 489.75348
       parentId: 1
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Top
+      guid: 
       position: {x: 410.72763, y: 237.41957, z: 0}
       rotation: {x: 0, y: -0, z: 0.8665047, w: 0.49916887}
       length: 52.559536
       parentId: 2
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Top 01
+      guid: 
       position: {x: 52.55955, y: 0.000026599475, z: 0}
       rotation: {x: 0, y: 0, z: 0.082725145, w: 0.99657243}
       length: 44.886726
       parentId: 3
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Top 02
+      guid: 
       position: {x: 44.88679, y: 0.000040845283, z: 0}
       rotation: {x: 0, y: 0, z: -0.054571852, w: 0.9985099}
       length: 47.139385
       parentId: 4
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Top 03
+      guid: 
       position: {x: 47.139343, y: 0.000021968119, z: 0}
       rotation: {x: 0, y: 0, z: -0.021724401, w: 0.999764}
       length: 51.19011
       parentId: 5
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Top 04
+      guid: 
       position: {x: 51.190117, y: 0.00004130619, z: 0}
       rotation: {x: 0, y: 0, z: 0.006024884, w: 0.9999819}
       length: 56.654278
       parentId: 6
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Top 05
+      guid: 
       position: {x: 56.654236, y: -0.00011715226, z: 0}
       rotation: {x: 0, y: 0, z: 0.032354854, w: 0.99947643}
       length: 44.495865
       parentId: 7
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Top 06
+      guid: 
       position: {x: 44.495853, y: -0.00002883159, z: 0}
       rotation: {x: 0, y: 0, z: -0.03196891, w: 0.9994889}
       length: 53.242126
       parentId: 8
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Top 07
+      guid: 
       position: {x: 53.242123, y: -0.000001061899, z: 0}
       rotation: {x: 0, y: 0, z: 0.105404876, w: 0.9944294}
       length: 55.30212
       parentId: 9
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Top 08
+      guid: 
       position: {x: 55.302143, y: -0.000038481845, z: 0}
       rotation: {x: 0, y: 0, z: -0.06449089, w: 0.9979183}
       length: 43.19433
       parentId: 10
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Bottom
+      guid: 
       position: {x: 415.63586, y: 233.19626, z: -1}
       rotation: {x: 0, y: -0, z: 0.90566766, w: 0.42398846}
       length: 52.51534
       parentId: 2
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Bottom 01
+      guid: 
       position: {x: 52.51541, y: 0.00003871397, z: -1}
       rotation: {x: 0, y: 0, z: 0.027242748, w: 0.99962884}
       length: 39.08964
       parentId: 12
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Bottom 02
+      guid: 
       position: {x: 39.089706, y: 0.000040193554, z: -1}
       rotation: {x: 0, y: 0, z: 0.0028990097, w: 0.9999958}
       length: 41.235596
       parentId: 13
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Bottom 03
+      guid: 
       position: {x: 41.23552, y: -0.00014105969, z: -1}
       rotation: {x: 0, y: 0, z: -0.008250363, w: 0.99996597}
       length: 44.573917
       parentId: 14
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Bottom 04
+      guid: 
       position: {x: 44.573986, y: -0.00012577395, z: -1}
       rotation: {x: 0, y: 0, z: -0, w: 1}
       length: 44.57421
       parentId: 15
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Bottom 05
+      guid: 
       position: {x: 44.57415, y: -0.000031009105, z: -1}
       rotation: {x: 0, y: 0, z: 0.027399283, w: 0.9996246}
       length: 48.671185
       parentId: 16
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Bottom 06
+      guid: 
       position: {x: 48.671177, y: -0.0000071954883, z: -1}
       rotation: {x: 0, y: 0, z: -0.049276505, w: 0.9987852}
       length: 39.386333
       parentId: 17
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Bottom 07
+      guid: 
       position: {x: 39.38635, y: -0.0000030143274, z: -1}
       rotation: {x: 0, y: 0, z: 0.06402191, w: 0.9979485}
       length: 29.157902
       parentId: 18
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Bottom 08
+      guid: 
       position: {x: 29.157867, y: -0.000036222656, z: -1}
       rotation: {x: 0, y: 0, z: 0.0056916717, w: 0.9999838}
       length: 42.101955
       parentId: 19
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Tail Bottom 09
+      guid: 
       position: {x: 42.101917, y: -0.00008387953, z: -1}
       rotation: {x: 0, y: 0, z: 0.012817193, w: 0.9999179}
       length: 25.90039
       parentId: 20
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Arm-Front
+      guid: 
       position: {x: 325.1106, y: -0.7542322, z: 1}
       rotation: {x: 0, y: -0, z: 0.9424311, w: 0.33440053}
       length: 188.56989
       parentId: 0
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Arm-Front 01
+      guid: 
       position: {x: 188.56984, y: -0.00001437344, z: 1}
       rotation: {x: 0, y: 0, z: 0.3771951, w: 0.9261338}
       length: 153.10687
       parentId: 22
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Arm-Back
+      guid: 
       position: {x: 328.2166, y: -5.296561, z: -1}
       rotation: {x: 0, y: -0, z: -0.978914, w: 0.20427264}
       length: 192.1853
       parentId: 0
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Arm-Back 01
+      guid: 
       position: {x: 192.1853, y: 0.00000090586036, z: -1}
       rotation: {x: 0, y: 0, z: 0.33346614, w: 0.9427621}
       length: 148.84889
       parentId: 24
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Leg-Front
+      guid: 
       position: {x: -3.1240273, y: 6.068359, z: 1}
       rotation: {x: 0, y: -0, z: 0.9979394, w: 0.06416352}
       length: 251.23396
       parentId: 0
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Leg-Front 01
+      guid: 
       position: {x: 251.23398, y: 0.0000073875926, z: 1}
       rotation: {x: 0, y: 0, z: -0.15807441, w: 0.98742723}
       length: 227.9706
       parentId: 26
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Leg-Back
+      guid: 
       position: {x: -10.718544, y: 2.9264338, z: -1}
       rotation: {x: 0, y: -0, z: -0.98082715, w: 0.19487992}
       length: 263.00168
       parentId: 0
+      color:
+        serializedVersion: 2
+        rgba: 0
     - name: Leg-Front 01
+      guid: 
       position: {x: 263.00165, y: -0.00003744165, z: -1}
       rotation: {x: 0, y: 0, z: -0.1694422, w: 0.98554015}
       length: 229.11208
       parentId: 28
+      color:
+        serializedVersion: 2
+        rgba: 0
     parts:
     - spritePosition:
         x: 664
@@ -8864,10 +8959,209 @@ ScriptedImporter:
       order: 0
     dimension: {x: 0, y: 0}
     characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings:
+  - name: Default
+    overridden: 1
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Viser
+    spriteName: Viser
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 607e44103197a8e43913b69c7a1b314d
+    layerID: 17
+    mosaicPosition: {x: 606, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Head
+    spriteName: Head
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9e074ea958d4690469e05f0e894ddabe
+    layerID: 16
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Knot
+    spriteName: Knot
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2a04515b26237a94783b09ad3fd3342e
+    layerID: 15
+    mosaicPosition: {x: 365, y: 1292}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Tail01
+    spriteName: Tail01
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 70e70d44bb3cc0a46a8c433cba6122b3
+    layerID: 14
+    mosaicPosition: {x: 4, y: 546}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Tail02
+    spriteName: Tail02
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5e7577013b56dba448a056606df864d4
+    layerID: 13
+    mosaicPosition: {x: 4, y: 818}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Thigh-Front
+    spriteName: Thigh-Front
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2582f4caec8c09646a218f3a0f212a72
+    layerID: 12
+    mosaicPosition: {x: 184, y: 1441}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Shin-Front
+    spriteName: Shin-Front
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2d093742ecd9d8f48a04bf4478e24443
+    layerID: 11
+    mosaicPosition: {x: 184, y: 1762}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: UpArm-Front
+    spriteName: UpArm-Front
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a1b7727b9c1f8eb4bb576133f75ae2f6
+    layerID: 10
+    mosaicPosition: {x: 420, y: 546}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: LowArm-Front
+    spriteName: LowArm-Front
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 854852b2939d2b8468bbdeae1e512e66
+    layerID: 9
+    mosaicPosition: {x: 502, y: 818}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Body02
+    spriteName: Body02
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cf3df607f6925d7488a4604b3e9f2624
+    layerID: 8
+    mosaicPosition: {x: 4, y: 1128}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Body01
+    spriteName: Body01
+    isGroup: 0
+    parentIndex: -1
+    spriteID: df7a90fe4bb4a5b4cb0d663ea4c732cd
+    layerID: 7
+    mosaicPosition: {x: 4, y: 1587}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Neck
+    spriteName: Neck
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0eaaae954f0ced24b808cce868378913
+    layerID: 6
+    mosaicPosition: {x: 365, y: 1165}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: UpArm-Back
+    spriteName: UpArm-Back
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6bea75f8d5917674d8d08771d7f968f3
+    layerID: 5
+    mosaicPosition: {x: 365, y: 818}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: LowArm-Back
+    spriteName: LowArm-Back
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fbc4c8a63c4e71843b37a91a3e24c60e
+    layerID: 4
+    mosaicPosition: {x: 365, y: 1055}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Thigh-Back
+    spriteName: Thigh-Back
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b447b308bf8d11940bc95a2fb74db5cb
+    layerID: 3
+    mosaicPosition: {x: 184, y: 1128}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Shin-Back
+    spriteName: Shin-Back
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f79d1c3ffc958cf49841188f3e97fd79
+    layerID: 2
+    mosaicPosition: {x: 305, y: 1441}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
   generateGOHierarchy: 0
   textureAssetName: player_urp_01-bw Texture
   prefabAssetName: player_urp_01-bw Prefab
   spriteLibAssetName: player_urp_01-bw Sprite Lib
+  skeletonAssetName: 
   secondarySpriteTextures:
   - name: _NormalMap
     texture: {fileID: -5291504832592582254, guid: 68e1c7d50560aec429b124c042c09613,
